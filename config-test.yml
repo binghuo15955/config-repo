@@ -1,9 +1,8 @@
 {
     "name":"config-repo",
-    "profiles":[
-        "test"
-    ],
+    "profiles":"test",
     "label":null,
     "version":"92bd1adf4d22d2a27ce34cd0abc7d1702ad8fff6",
-    "state":200
+    "state":200,
+    "hello": "this is test"
 }
