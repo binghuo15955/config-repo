@@ -1,4 +1,4 @@
-name: "config-dev",
-profiles : test,
-label: null,
-source : test
+"name": "config-dev",
+"profiles" : "test",
+"label": "null",
+"source" : "test" 
